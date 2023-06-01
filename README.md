@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **the language C++**
 
-- 📫 How to reach me **erickstalin12@gmail.com or 0981351236**
+- 📫 How to reach me **erickstalin12@gmail.com**
 
 - ⚡ Fun fact **I think I am a charismatic person.**
 
