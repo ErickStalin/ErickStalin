@@ -1,4 +1,3 @@
-### Hi there 👋
 <h1 align="center">Hi 👋, I'm Erick Santillan</h1>
 <h3 align="center">I like it and I specialize in both back-end and front-end, I'm from Ecuador and I live in Quito</h3>
 
